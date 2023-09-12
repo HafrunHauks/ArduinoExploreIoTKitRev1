@@ -1,4 +1,6 @@
-Hi dette er Hafrun
+//Hi dette er Hafrun
+
+// Dette er Karsten
 /*
 Author      : Teeraphat Kullanankanjana
 Version     : 1.0
